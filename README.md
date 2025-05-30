@@ -2,9 +2,6 @@
 
 💻 Full Stack Mobile App Developer | 📱 Android & Flutter Enthusiast<br>
 
-🚀 About Me<br>
-I'm a passionate mobile app developer with experience in building scalable, responsive, and user-friendly applications. I specialize in Android development (Java/Kotlin) and also build cross-platform apps using Flutter. My full-stack capabilities allow me to develop complete mobile solutions—from beautiful frontends to powerful backend services.
-
 # 💫 About Me:
 I'm a passionate mobile app developer with experience in building scalable, responsive, and user-friendly applications. I specialize in Android development (Java/Kotlin) and also build cross-platform apps using Flutter. My full-stack capabilities allow me to develop complete mobile solutions—from beautiful frontends to powerful backend services.
 
