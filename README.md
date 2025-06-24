@@ -1,11 +1,11 @@
-👋 Hi, I'm Mohan
+# 👋 Hi, I'm Mohan
 
 💻 Full Stack Mobile App Developer | 📱 Android & Flutter Enthusiast<br>
 
 # 💫 About Me:
 I'm a passionate mobile app developer with experience in building scalable, responsive, and user-friendly applications. I specialize in Android development (Java/Kotlin) and also build cross-platform apps using Flutter. My full-stack capabilities allow me to develop complete mobile solutions—from beautiful frontends to powerful backend services.
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohan-singh-78ab41263/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohans86700@gmail.com) 
 
 # 💻 Tech Stack:
